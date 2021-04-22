@@ -10,7 +10,7 @@ This project had two different components. The Milestone1, “Dockerize it”, h
 
 To start the project, I first had to complete the setup. First step was to install docker from the following link:
 
-	https://www.docker.com/products/docker-desktop
+	[https://www.docker.com/products/docker-desktop]
 
 After installing Docker, I realized that I had the wrong version of WSL. I was on WSL Version 1. I had to run the following command to switch to WSL2:
 
@@ -24,7 +24,7 @@ We also had to use apache2 for this as mentioned in the Lecture on 04-02-2021, b
 
 Next, I had to make the new repo in the GitHub using the link in Pilot. Then, I had to clone the newly created repository to my local WSL 2:
 
-	git clone https://github.com/WSU-kduncan/ceg3120-p4-massa-michelle.git
+	git clone [https://github.com/WSU-kduncan/ceg3120-p4-massa-michelle.git]
 
 After I cloned the repo, I created this README.md file and committed it to my repo. This proved that everything was working as it should be. Next, I made an html directory:
 
