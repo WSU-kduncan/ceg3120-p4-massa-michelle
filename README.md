@@ -88,7 +88,9 @@ And that is pretty much everything for the project!
 
 ## Lessons Learned:
 
-Biggest lesson I learned is that I should have documented my progress more as I did this project. I completed Milestone 1 and 2 before the due dates and did not really know where the project was going. At the time, I thought it would be easier to document my process later as the project came together… turns out that was a horrible idea. The `history` command and being able to re-watch the lectures really saved me on this one. I have learned my lesson: __*DOCUMENT EVERYTHING*__.
+Biggest lesson I learned is that I should have documented my progress more as I did this project. I completed Milestone 1 and 2 before the due dates and did not really know where the project was going. At the time, I thought it would be easier to document my process later as the project came together… turns out that was a horrible idea. The `history` command and being able to re-watch the lectures really saved me on this one. 
+
+I have learned my lesson: __*DOCUMENT EVERYTHING*__.
 
 
 
