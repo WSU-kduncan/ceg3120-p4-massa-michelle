@@ -8,7 +8,7 @@ This project had two different components. The Milestone1, “Dockerize it”, h
 
 ### Milestone 1:
 
-To start the project, I first had to complete the setup. First step was to install docker from the following link: [https://www.docker.com/products/docker-desktop]
+To start the project, I first had to complete the setup. First step was to install docker from the following link: https://www.docker.com/products/docker-desktop
 
 After installing Docker, I realized that I had the wrong version of WSL. I was on WSL Version 1. I had to run the following command to switch to WSL2:
 
@@ -88,7 +88,7 @@ And that is pretty much everything for the project!
 
 ## Lessons Learned:
 
-Biggest lesson I learned is that I should have documented my progress more as I did this project. I completed Milestone 1 and 2 before the due dates and did not really know where the project was going. At the time, I thought it would be easier to document my process later as the project came together… turns out that was a horrible idea. The `history` command and being able to re-watch the lectures really saved me on this one. I have learned my lesson: _*DOCUMENT EVERYTHING*_.
+Biggest lesson I learned is that I should have documented my progress more as I did this project. I completed Milestone 1 and 2 before the due dates and did not really know where the project was going. At the time, I thought it would be easier to document my process later as the project came together… turns out that was a horrible idea. The `history` command and being able to re-watch the lectures really saved me on this one. I have learned my lesson: __*DOCUMENT EVERYTHING*__.
 
 
 
