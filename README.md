@@ -12,7 +12,7 @@ To start the project, I first had to complete the setup. First step was to insta
 
 	https://www.docker.com/products/docker-desktop
 
-After installing Docker, I realized that I had the wrong version of WSL. I was on WSL Version 1. I had to run the following commands to switch to WSL2:
+After installing Docker, I realized that I had the wrong version of WSL. I was on WSL Version 1. I had to run the following command to switch to WSL2:
 
 	wsl --set-default-version 2
 
@@ -84,7 +84,7 @@ I then created the `workflows` directory:
 	mkdir workflows
 	vim docker-to-ecr-to-ecs.yml
 
-My yaml file can be found here.
+My yaml file can be found [here](.github/workflows/docker-to-ecr-to-ecs.yml).
 
 And that is pretty much everything for the project!
 
