@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project had two different components. The Milestone1, “Dockerize it”, had us dockerizing an html file. The next milestone, “Github Actions and ECR” had us configure AWS CLI, create an ECR repositoty, and create GitHub actions to be used with a workflow that pushed an image to ECR. The workflow template was provided to us, however, changes did need made. Overall, that is where the project stopped due to problems with AWS accounts the Educate version. Milestone 3 is the below documentation.
+This project had two different components. The Milestone1, “Dockerize it”, had us dockerizing an html file. The next milestone, “Github Actions and ECR” had us configure AWS CLI, create an ECR repositoty, and create GitHub actions to be used with a workflow that pushed an image to ECR. The workflow template was provided to us, however, changes did need made. Overall, that is where the project stopped due to problems with AWS accounts and the Educate version. Milestone 3 is the below documentation.
 
 ## Documentation
 
